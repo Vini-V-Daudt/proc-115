@@ -1,6 +1,4 @@
 #instalar as bibliotecas usando pip install no terminal. Para a biblioteca da 7 e 8, usar pip install watchdog
-from pickle import TRUE
-from reprlib import recursive_repr
 import sys
 import time
 import random
